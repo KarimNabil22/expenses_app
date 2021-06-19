@@ -1,4 +1,4 @@
-# expenses_mob
+# expenses_app
 
 A new Flutter project.
 
